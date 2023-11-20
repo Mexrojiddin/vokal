@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/umumiy_kimyo.iml" filepath="$PROJECT_DIR$/.idea/modules/umumiy_kimyo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/osimlik_turlari.iml" filepath="$PROJECT_DIR$/.idea/modules/osimlik_turlari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/osimlik_turlari.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/osimlik_turlari.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/osimlik_turlari.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/osimlik_turlari.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/osimlik_turlari.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/osimlik_turlari.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/osimlik_turlari.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/osimlik_turlari.app.unitTest.iml" />
     </modules>
   </component>
 </project>
